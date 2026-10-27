@@ -1,1 +1,4 @@
-wanted to practice commiting changes from github and not the local repository
+Wanted to practice committing changes from GitHub and not the local repository 
+Rebasing: 
+Rebasing on GitHub (or Git) is a process that reapplies commits from one branch on top of another 
+base branch, effectively rewriting the project history to create a straight, linear line of commits.
